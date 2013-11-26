@@ -3,7 +3,7 @@
 Summary:	Local regression, likelihood and density estimation
 Name:		R-cran-%{modulename}
 Version:	1.5r9.1
-Release:	1
+Release:	2
 License:	GPLv2
 Group:		Applications/Databases
 Source0:	http://cran.r-project.org/src/contrib/%{modulename}_%{fversion}.tar.gz
